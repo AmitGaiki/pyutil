@@ -1,0 +1,2 @@
+class InvalidInstanceTypeException(Exception):
+    pass
